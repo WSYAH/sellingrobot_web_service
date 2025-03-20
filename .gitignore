@@ -1,0 +1,11 @@
+.idea/
+venv/
+*.pyc
+*.out
+*.log
+*.log*
+__pycache__/
+*/logs/
+logs/
+script_dir/
+.DS_Store
